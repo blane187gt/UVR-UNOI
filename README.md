@@ -5,10 +5,19 @@ This project is based on [python-audio-separator](https://github.com/karaokenerd
 </div>
 <div align="center">
   
+Open in colab here
+
+
+[![Open In Colab]()](https://colab.research.google.com/github/Eddycrack864/UVR5-UI/blob/main/UVR_UI.ipynb)
+
+[<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" width="200" alt="google colav">](https://colab.research.google.com/github/blane187gt/UVR-UNOI/blob/main/UVR5_pack.ipynb)]
 
 You can also try it in Hugging Faces Spaces running on Zero GPU (A100)!
 
 [<img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-xl-dark.svg?download=true" width="200" alt="Hugging Face">](https://huggingface.co/spaces/TheStinger/UVR5_UI)
+
+
+
 
 
 </div>
