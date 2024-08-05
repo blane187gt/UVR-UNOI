@@ -26,7 +26,7 @@ You can also try it in Hugging Faces Spaces running on Zero GPU (A100)!
 - **BS-Roformer ViperX Models**: State-of-the-art Roformer ViperX models.
 - **VIP Models**: Incorporates VIP models for superior performance.
 - **Separation of Audio/Video**: Supports extraction from all sites supported by [yt_dlp](https://github.com/yt-dlp/yt-dlp). Check the complete list [here](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
-- **Batch Separation**: Efficiently processes multiple files.
+- **Batch Separation**: Efficiently processes path files.
 - **NO UI Separation**: Offers a no-UI mode for streamlined operations.
 
 ## Changelog
