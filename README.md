@@ -53,7 +53,7 @@ You can also try it in Hugging Faces Spaces running on Zero GPU (A100)!
 - **Special thanks to [Ilaria](https://github.com/TheStingerX)** for hosting this space and their invaluable help 💖
 - **Thanks to [Mikus](https://github.com/cappuch)** for assistance with the code.
 - **Thanks to [Nick088](https://github.com/Nick088Official)** for fixing Roformer models.
-- **Thanks to [yt_dlp](https://github.com/yt-dlp/yt-dlp)** developers for their contributions.
+- **Thanks to [yt_dlp](https://github.com/yt-dlp/yt-dlp)** developers for their code.
 - **Improvements and Separation**: Source code and improvements by [Blane187](https://huggingface.co/Blane187).
 
 ---
